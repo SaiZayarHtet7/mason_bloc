@@ -1,0 +1,4 @@
+bricks:
+  hello: ^0.1.0+1
+  my_brick: 
+    path: bricks/my_brick
